@@ -7,7 +7,7 @@ int main()
 {
     string login;
     int senha;
-    cout << "Painel Administrativo \nDigite seu login:" << endl;
+    cout << "HxSystem \nDigite seu login:" << endl;
     cin >> login;
     cout << "Digite sua senha:";
     cin >> senha;
